@@ -834,7 +834,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"name\": \"Jonas Schmedtmann\",\n\t\"role\": \"admin\"\n}"
+							"raw": "{\n\t\"name\": \"Nishant Atras\",\n\t\"role\": \"admin\"\n}"
 						},
 						"url": {
 							"raw": "{{URL}}api/v1/users/updateMe",
