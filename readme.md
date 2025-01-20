@@ -1,7 +1,7 @@
 # TravelSage Application
 
 ## 🚀 Overview
-Travelodge is a full-stack travel planning application that helps users explore destinations, create itineraries, and manage their trips seamlessly. The backend uses Node.js, Express.js, and MongoDB, while the front end uses React.js.
+TravelSage is a full-stack travel planning application that helps users explore destinations, create itineraries, and manage their trips seamlessly. The backend uses Node.js, Express.js, and MongoDB, while the front end uses React.js.
 
 ## ✨ Features
 - 🌍 **Explore Destinations** – Browse through various destinations with details.
@@ -51,7 +51,7 @@ Travelodge is a full-stack travel planning application that helps users explore 
 ## ⚡ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/nishan/TravelSage.git
+git clone https://github.com/nishantatras/TravelSage.git
 cd TravelSage
 ```
 
